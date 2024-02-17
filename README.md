@@ -4,7 +4,7 @@
 
 ## 💡 Recursos Principais
 - Possibilidade de jogar um jogo de quiz.
-- 
+
 ## 🚀 Deploy
 - Você pode acessar o projeto aqui:
  https://feapolina.github.io/quiz-app-js/
@@ -27,7 +27,7 @@ Vá para o diretorio do projeto
 ## 🛠 Tecnologias Utilizadas
 
 ### Back end:
-Javascript, para a lógica da aplicação.
+- Javascript, para a lógica da aplicação.
 
 ### Front end:
 - HTML e CSS.
