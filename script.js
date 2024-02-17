@@ -36,7 +36,7 @@ const perguntas = [
   {
     pergunta: "Qual a comida italiana mais popular?",
     respostas: ["Lasanha", "Pizza", "Spaghetti"],
-    correta: 0,
+    correta: 1,
   },
   {
     pergunta: "Qual o time de futebol italiano mais famoso?",
